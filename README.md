@@ -2,14 +2,15 @@ Binary Search Tree Implementation in Java
 ==========================================
 This program simulates a binary search tree, a type of data structure commonly used in computer science. The binary search tree is implemented as an abstract data type using an interface, allowing it to handle a wide range of data instances.
 
-Features
-========
+## Features
+
 The binary search tree implementation includes the following features:
 
-*Insertion of new elements
-Deletion of existing elements
-Searching for elements
-Traversal of the tree
+- Insertion of new elements
+- Deletion of existing elements
+- Searching for elements
+- Traversal of the tree
+
 The implementation also includes optimizations and algorithms that improve performance, making it a powerful tool for a wide range of applications.
 
 Usage
