@@ -47,3 +47,4 @@ class FIFAPlayerKey implements Keyed{
         return getCountry() + " " + getJerseyNumber();
     }
 }
+
